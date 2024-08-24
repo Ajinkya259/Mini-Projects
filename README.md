@@ -48,8 +48,10 @@ To run these projects locally, follow these steps:
 
 
 
-#Usage:
-For the Currency Converter, select the currencies and input the amount you wish to convert. The conversion result will be displayed automatically.
-For the Rock Paper Scissors Game, click on one of the options (Rock, Paper, Scissors) to make your move. The game will display the computer's choice and the result.
+Usage:
+
+For the Currency Converter: Select the currencies and input the amount you wish to convert. The conversion result will be displayed automatically.
+
+For the Rock Paper Scissors Game: Click on one of the options (Rock, Paper, Scissors) to make your move. The game will display the computer's choice and the result.
 
 
