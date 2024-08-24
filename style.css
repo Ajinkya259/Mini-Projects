@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     background-color: #010101;
+} 
+
+.container{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 45vh;
+    width: 40vh;
+}
+
+.mesg{
+    margin: 1rem 1rem 1rem 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.mesg p:first-of-type{
+    font-weight: bold;
+}
+.mesg p:nth-of-type(2){
+    font-weight: bold;
+}
+.projects{  
+    display: flex;
+   margin-left: 10px;
+   
+}
+
+.projects a:first-of-type {
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: auto;
+   
+}
+
+.projects a:nth-of-type(2) {
+    text-decoration:none;
+    border: 1px solid black;
+    font-weight: bold;
+    padding: 5px;
+}
