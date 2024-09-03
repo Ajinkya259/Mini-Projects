@@ -39,7 +39,7 @@ To run these projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mini-projects-repo.git
+   git clone https://github.com/Ajinkya259/mini-projects-repo.git
    
 2.Navigate to the project directory:
   cd mini-projects-repo
